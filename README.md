@@ -65,8 +65,8 @@ PythonAppLauncher/
 ## Screenshots
 ![App Screenshots](python1.png)
 
-License
+##License
 - Opensource
 
-Author
-## Tayakorn000
+##Author
+# Tayakorn000
