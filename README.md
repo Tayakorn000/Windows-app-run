@@ -37,6 +37,7 @@ cd python-app-launcher
 ```bash
 python app.py
 ```
+### Recommend Python Version: Python 3.11.9
 ## Usage
 
 ### Navigate and operate the app using the keyboard:
