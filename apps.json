@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Steam",
+    "path": "C:\\Program Files (x86)\\Steam\\Steam.exe"
+  },
+  {
+    "name": "Discord",
+    "path": "C:\\Users\\tayak\\AppData\\Local\\Discord\\Update.exe"
+  },
+  {
+    "name": "Epicgame",
+    "path": "C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win32\\EpicGamesLauncher.exe"
+  },
+  {
+    "name": "VsCode",
+    "path": "C:\\Users\tayak\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+  }
+]
