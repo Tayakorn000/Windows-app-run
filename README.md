@@ -25,7 +25,7 @@ Easily manage, launch, and organize your frequently used applications.
 1. Ensure **Python 3.x** is installed on your system. (Recommend Python Version: Python 3.11.9)
 2. Clone the repository:
  ```bash
- git clone https://github.com/yourusername/python-app-launcher.git
+ git clone https://github.com/tayakorn000/python-app-launcher.git
 ```
 3.Navigate to the folder:
 
