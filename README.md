@@ -22,7 +22,7 @@ Easily manage, launch, and organize your frequently used applications.
 
 ## Installation
 
-1. Ensure **Python 3.x** is installed on your system.
+1. Ensure **Python 3.x** is installed on your system. (Recommend Python Version: Python 3.11.9)
 2. Clone the repository:
  ```bash
  git clone https://github.com/yourusername/python-app-launcher.git
@@ -37,9 +37,7 @@ cd python-app-launcher
 ```bash
 python app.py
 ```
-### Recommend Python Version: Python 3.11.9
 ## Usage
-
 ### Navigate and operate the app using the keyboard:
 
 ### Menu Option	Action Key(s)
