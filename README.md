@@ -63,7 +63,7 @@ PythonAppLauncher/
 └── apps.json        # Stored app list (created automatically)
 ```
 ## Screenshots
-![คำอธิบายภาพหน้าจอ](ลิงก์ URL ของรูปภาพ)
+![App Screenshots](python1.png)
 
 License
 - Opensource
